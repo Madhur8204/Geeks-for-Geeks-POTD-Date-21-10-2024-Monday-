@@ -12,9 +12,8 @@ Given an array **arr**[]  of integers, the task is to count the number of ways t
 
 arr[] = [1, 2, 3]
 
-**Output 1:**
+**Output 1:** 3
 
-3
 **Explanation:**
 
 {(1),(2, 3)}, {(2),(1, 3)}, {(3),(1, 2)} are three ways with equal XOR value of two groups.
