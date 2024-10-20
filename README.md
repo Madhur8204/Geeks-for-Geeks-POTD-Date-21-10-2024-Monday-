@@ -4,7 +4,8 @@ Split the Array.
 **Statement:**
 
 Given an array **arr**[]  of integers, the task is to count the number of ways to split given array elements into two disjoint groups such that the XOR of elements of each group is equal.
-**Note:** The answer could be very large so print it by doing modulo with 109 + 7
+
+**Note:** The answer could be very large so print it by doing modulo with 10^9 + 7
 
 **Examples:**
 
